@@ -628,7 +628,7 @@ form button {
 @media (min-width: 600px) {
   #header {
     height: 200px;
-    background: url("images/header.jpg") no-repeat center center;
+    background: url("images/header.png") no-repeat center center;
     padding: 0; }
 
   #header-content-container {
